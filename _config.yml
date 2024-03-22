@@ -67,7 +67,7 @@ author:
       url: "https://"
     - label: "Bluesky"
       icon: "fab fa-fw fa-bluesky-square"
-      url: "https://bsky.social/unknown0721.bsky.social"
+      url: "https://bsky.social/profile/unknown0721.bsky.social"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/alexchiu100014"
@@ -76,7 +76,7 @@ footer:
   links:
     - label: "Bluesky"
       icon: "fab fa-fw fa-bluesky-square"
-      url: "https://bsky.social/unknown0721.bsky.social"
+      url: "https://bsky.social/profile/unknown0721.bsky.social"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
