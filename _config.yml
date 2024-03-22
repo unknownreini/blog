@@ -63,7 +63,7 @@ author:
   bio    : "Good artists copy, great artists steal."
   links:
     - label: "Bluesky"
-      icon: "fab fa-fw fa-solid fa-hashtag"
+      icon: "fa-fw fa-solid fa-hashtag"
       url: "https://bsky.app/profile/unknown0721.bsky.social"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -72,7 +72,7 @@ author:
 footer:
   links:
     - label: "Bluesky"
-      icon: "fab fa-fw fa-solid fa-hashtag"
+      icon: "fa-fw fa-solid fa-hashtag"
       url: "https://bsky.app/profile/unknown0721.bsky.social"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
